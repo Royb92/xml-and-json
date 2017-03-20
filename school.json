@@ -1,0 +1,26 @@
+{"school": "Ort"[
+	{ "class":"g1"[
+	{ "firstName": "Roy", "lastName":"Babayev" ,"grade":[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Itzik", "lastName":"Ovadia" :[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Tamir", "lastName":"Yosefyan" :[
+	"math":90, "cLang":100  ]}
+	]}
+	{ "class":"g2"[
+	{ "firstName": "Roy", "lastName":"Babayev" ,"grade":[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Itzik", "lastName":"Ovadia" :[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Tamir", "lastName":"Yosefyan" :[
+	"math":90, "cLang":100  ]}
+	]}
+	{ "class":"g3"[
+	{ "firstName": "Roy", "lastName":"Babayev" ,"grade":[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Itzik", "lastName":"Ovadia" :[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Tamir", "lastName":"Yosefyan" :[
+	"math":90, "cLang":100  ]}
+	]}
+]}
