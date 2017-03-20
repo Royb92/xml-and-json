@@ -1,0 +1,23 @@
+<school name="A">
+    <students>
+        <student name="Roy">
+            <topics>
+                <topic name="C">
+                    <grade>100</grade>
+                </topic>
+                <topic name="math">
+                    <grade>90</grade>
+                </topic>
+                <topic name="english">
+                    <grade>90</grade>
+                </topic>
+                <topic name="sport">
+                    <grade>85</grade>
+                </topic>
+                <topic name="java">
+                    <grade>80</grade>
+                </topic>
+            </topics>
+        </student>
+    </students>
+</school>
